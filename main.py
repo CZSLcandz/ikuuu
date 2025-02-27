@@ -4,8 +4,8 @@ import requests
 import os
 
 #账户
-EMAIL = os.environ["EMAIL"]
-PASSWORD = os.environ["PASSWORD"]
+EMAIL = os.environ["479112916@qq.com"]
+PASSWORD = os.environ["ch824920@"]
 DOMAIN = os.environ["DOMAIN"]
 
 
